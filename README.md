@@ -1,3 +1,7 @@
+# Prisma Example
+
+This is a Prisma example based on the article https://medium.com/@emmanuelodii80/a-comprehensive-guide-to-shipping-your-saas-product-with-next-js-planetscale-and-prisma-orm-39e4e669f7ff
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
