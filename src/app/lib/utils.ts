@@ -10,6 +10,7 @@ export type User = {
 
 export const createUser = async ({ email, name, request }: User) => {
   try {
+    console.log("Creating user:", { email, name, request });
     const user = await prisma.user.create({
       data: {
         email,
